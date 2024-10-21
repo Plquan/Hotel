@@ -1,0 +1,316 @@
+﻿<style>
+    input::placeholder {
+        font-style: italic; /* Đặt chữ placeholder nghiêng */
+    }</style>
+
+<div class="page-wrapper">
+    <div class="content container-fluid">
+
+        <div class="page-header mt-5">
+            <button type="button" onclick="cancel()" class="btn btn-primary buttonedit ml-2">Hủy</button>
+            <button type="button" onclick="addRoomType()" class="btn btn-primary buttonedit">Lưu và quay lại</button>
+            <div class="row">
+                <div class="col">
+                    <h3 class="page-title">Thêm mới</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title">Thông tin</h4>
+                    </div>
+                    <div class="card-body">
+                        <form enctype="multipart/form-data">
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Tên loại phòng</label>
+                                <div class="col-md-10">
+                                    <input type="text" id="name" class="form-control" autofocus placeholder="Luxury,Family,...">
+                                </div>
+                            </div>
+                          
+                 
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Giá tiền</label>
+                                <div class="col-md-10">
+                                    <input type="text" id="price" class="form-control">
+                                </div>
+                            </div>
+                            <style>
+                                .ck-editor__editable {
+                                    height: 280px; /* Chiều cao tối đa của editor */
+                                    overflow: auto; /* Thanh cuộn xuất hiện khi nội dung dài hơn */
+                                    width: 100%; /* Đặt chiều rộng */
+                                    max-width: 1200px; /* Chiều rộng tối đa */
+                                    box-sizing: border-box; /* Đảm bảo padding không ảnh hưởng đến kích thước */
+                                 
+                                }
+                            </style>
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Mô tả</label>
+                                <div class="col-md-10">
+                                    <textarea id="content" rows="5" cols="5" class="form-control"
+                                      placeholder="Nhập mô tả"></textarea>
+                                </div>
+                            </div>
+                       
+                        </form>
+                    </div>
+                </div>       
+            </div>
+            <div class="col-lg-6">
+
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title">Chi tiết</h4>
+                    </div>
+                    <div class="card-body">
+                        <form>                 
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Số người</label>
+                                <div class="col-md-10">
+                                    <input type="number" id="capacity" class="form-control" placeholder="1,2,3,..">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Diện tích</label>
+                                <div class="col-md-10">
+                                    <input type="number" id="size" class="form-control" placeholder="1,2,3,..">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Góc nhìn</label>
+                                <div class="col-md-10">
+                                    <input type="text" id="view" class="form-control" placeholder="Biển, Thành phố,..">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Loại giường</label>
+                                <div class="col-md-10">
+                                    <input type="text" id="bedType" class="form-control" placeholder="Giường đôi,đơn,..">
+                                </div>
+                            </div>
+
+                     
+
+                        </form>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title">Dịch vụ khác</h4>
+                    </div>
+                    <div class="card-body">
+                        <form>
+                            <style>
+                            
+                            </style>
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Dịch vụ</label>
+                                <div class="col-md-10">
+                                    <te id="tags-input1" type="text">
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+            <div class="row">
+            <div class="col-lg-12">
+
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title">Tùy chỉnh</h4>
+                    </div>
+
+                    <div class="card-body">
+                        <div class="form-group row">
+                            <label class="col-form-label col-md-2">Ảnh bìa</label>
+                            <div class="col-md-10">
+                                <input class="form-control" id="thumb-input" type="file">
+                                <br />
+                                <div class="preview_thumb" id="thumb-container">
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <style>
+                            .tagify {
+                                width: 100%;
+                            }
+
+                        </style>
+                        <div class="form-group row">
+                            <label class="col-form-label col-md-2">Tiện nghi</label>
+                            <div class="col-md-10">
+                                <input id="tags-input2" type="text">
+                            </div>
+                        </div>
+                        <style>
+                            .preview-container {
+                                display: flex;
+                                gap: 10px;
+                                flex-wrap: wrap
+                            }
+
+                            .preview {
+                                position: relative;
+                                width: 150px;
+                                height: 100px;
+                                border: 1px solid #ddd;
+                                overflow: hidden; /* Đảm bảo ảnh không vượt quá khung */
+                            }
+
+                                .preview img {
+                                    width: 100%; /* Ảnh sẽ chiếm toàn bộ chiều rộng của khung */
+                                    height: 100%; /* Ảnh sẽ chiếm toàn bộ chiều cao của khung */
+                                    object-fit: cover; /* Đảm bảo ảnh phù hợp với kích thước khung mà không bị biến dạng */
+
+                                }
+
+                            .remove-btn {
+                                position: absolute;
+                                top: 5px;
+                                right: 5px;
+                                background-color: red;
+                                color: white;
+                                border: none;
+                                border-radius: 100%;
+                                width: 20px;
+                                height: 20px;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                cursor: pointer;
+                            }
+
+                        </style>
+
+                        <form>
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Ảnh đính kèm</label>
+                                <div class="col-md-8">
+
+                                    <input class="form-control" type="file" id="file-input" name="files[]" multiple>
+                                    <br />
+                                    <div class="preview-container" id="img_container"> </div>
+
+                                </div>
+                                <div class="col-md-2">
+                                    <button type="button" id="addImage" class="btn btn-primary">Chọn</button>
+
+                                </div>
+                            </div>
+
+                        </form>
+                    </div>
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="~/api/admin/roomType.js"></script>
+
+<script>
+
+
+    // tagify
+    var input1 = document.querySelector('#tags-input1');
+    var tagify1 = new Tagify(input1);
+
+
+
+    var input2 = document.querySelector('#tags-input2');
+    var tagify2 = new Tagify(input2);
+
+
+    // previewThumb
+    document.getElementById('thumb-input').addEventListener('change', function () {
+        const imageContainer = document.getElementById('thumb-container');
+        const files = this.files; // Lấy danh sách các tệp đã chọn
+
+        imageContainer.innerHTML = '';
+        if (files.length > 0) {
+            const file = files[0];
+            if (file.type.startsWith('image/')) {
+                const reader = new FileReader();
+                reader.onload = function (e) {
+                    const imgSrc = e.target.result;
+                    const previewHTML = `
+                                <div class="preview">
+                                    <img src="${imgSrc}" id="thumb" alt="Preview-thumb">
+                                </div>
+                            `;
+                    imageContainer.insertAdjacentHTML('beforeend', previewHTML);
+                };
+                reader.readAsDataURL(file);
+            } else {
+                console.log("File không được hỗ trợ: " + file.name);
+            }
+        } else {
+            console.log("Không có file nào được chọn");
+        }
+    });
+
+    // preview ImageAlt
+    document.getElementById('addImage').addEventListener('click', function () {
+        const imageContainer = document.getElementById('img_container');
+        const img = document.getElementById('file-input');
+        const files = img.files;
+
+        if (files.length > 0) {
+            for (let i = 0; i < files.length; i++) {
+                const file = files[i];
+
+                if (file.type.startsWith('image/')) {
+                    const reader = new FileReader();
+                    reader.onload = function (e) {
+                        const imgSrc = e.target.result;
+                        const previewHTML = `
+                                <div class="preview">
+                                    <img src="${imgSrc}" value ="${imgSrc}" alt="Preview">
+                                    <button class="remove-btn" onclick="this.parentElement.remove()">X</button>
+                                </div>
+                            `;
+                        imageContainer.insertAdjacentHTML('beforeend', previewHTML);
+                    };
+                    reader.readAsDataURL(file);
+                } else {
+                    console.log("File không được hỗ trợ: " + file.name);
+                }
+            }
+        } else {
+            console.log("Không có file nào được chọn");
+        }
+    });
+
+
+    document.addEventListener('DOMContentLoaded', function () {
+        loadServices(); 
+    });
+
+    let editorContent;
+    //ckeditor
+    ClassicEditor
+        .create(document.querySelector('#content'))
+        .then(editor => {
+            editorContent = editor;
+
+            console.log('CKEditor instance created.');
+        })
+        .catch(error => {
+            console.error('Failed to create CKEditor instance:', error);
+        });
+
+</script>
+

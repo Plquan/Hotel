@@ -1,0 +1,356 @@
+﻿
+<style>
+    input::placeholder {
+        font-style: italic; /* Đặt chữ placeholder nghiêng */
+    }</style>
+
+<div class="page-wrapper">
+    <div class="content container-fluid">
+
+        <div class="page-header mt-5">
+            <button type="button" onclick="cancel()" class="btn btn-primary buttonedit ml-2">Hủy</button>
+            <button type="button" onclick="editRoomType()" class="btn btn-primary buttonedit">Lưu và quay lại</button>
+            <div class="row">
+                <div class="col">
+                    <h3 class="page-title">Chỉnh sửa</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title">Nhập thông tin</h4>
+                    </div>
+                    <div class="card-body">
+                        <form enctype="multipart/form-data">
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Tên loại phòng</label>
+                                <div class="col-md-10">
+                                    <input type="text" id="name" class="form-control" autofocus placeholder="Luxury,Family,...">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Số lượng người</label>
+                                <div class="col-md-10">
+                                    <input type="number" id="capacity" class="form-control" placeholder="1,2,3,..">
+                                </div>
+                            </div>
+
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Góc nhìn</label>
+                                <div class="col-md-10">
+                                    <input type="text" id="view" class="form-control" placeholder="Biển, Thành phố,..">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Loại giường</label>
+                                <div class="col-md-10">
+                                    <input type="text" id="bedType" class="form-control" placeholder="Giường đôi,đơn,..">
+                                </div>
+                            </div>
+
+
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Giá tiền</label>
+                                <div class="col-md-10">
+                                    <input type="text" id="price" class="form-control">
+                                </div>
+                            </div>
+                            <style>
+                                .ck-editor__editable {
+                                    height: 250px; /* Chiều cao tối đa của editor */
+                                    overflow: auto; /* Thanh cuộn xuất hiện khi nội dung dài hơn */
+                                    width: 100%; /* Đặt chiều rộng */
+                                    max-width: 1200px; /* Chiều rộng tối đa */
+                                    box-sizing: border-box; /* Đảm bảo padding không ảnh hưởng đến kích thước */
+                                }
+                            </style>
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Mô tả</label>
+                                <div class="col-md-10">
+                                    <textarea id="content" rows="5" cols="5" class="form-control"
+                                              placeholder="Nhập mô tả"></textarea>
+                                </div>
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title">Tùy chỉnh</h4>
+                    </div>
+
+                    <div class="card-body">
+                        <div class="form-group row">
+                            <label class="col-form-label col-md-2">Ảnh bìa</label>
+                            <div class="col-md-10">
+                                <input class="form-control" id="thumb-input" type="file">
+                                <br />
+                                <div class="preview_thumb" id="thumb-container">
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="form-group row">
+                            <label class="col-form-label col-md-2">Dịch vụ</label>
+                            <div class="col-md-10" id="checkboxContainer">
+                                @*<div class="checkbox">
+                                <label><input type="checkbox" name="checkbox"> Option 1</label>
+                                </div>*@
+                            </div>
+                        </div>
+                        <style>
+                            #checkboxContainer {
+                                display: flex;
+                                flex-wrap: wrap; /* Tự động xuống dòng khi đủ số lượng cột */
+                            }
+
+                            .checkbox {
+                                width: 20%; /* Mỗi cột chiếm 1/4 chiều rộng */
+                                box-sizing: border-box; /* Đảm bảo padding và border không ảnh hưởng đến kích thước */
+                                padding: 10px; /* Khoảng cách giữa các checkbox */
+                            }
+                        </style>
+                        <style>
+                          
+
+                        </style>
+                        <div class="form-group row">
+                            <label class="col-form-label col-md-2">Tiện nghi</label>
+                            <div class="col-md-10">
+                                <input id="tags-input" type="text">
+                            </div>
+                        </div>
+                        <style>
+                            .preview-container {
+                                display: flex;
+                                gap: 10px;
+                            }
+
+                            .preview {
+                                position: relative;
+                                width: 150px;
+                                height: 100px;
+                                border: 1px solid #ddd;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                            }
+
+                                .preview img {
+                                    max-width: 100%;
+                                    max-height: 100%;
+                                }
+
+                            .remove-btn {
+                                position: absolute;
+                                top: 5px;
+                                right: 5px;
+                                background-color: red;
+                                color: white;
+                                border: none;
+                                border-radius: 50%;
+                                width: 20px;
+                                height: 20px;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                cursor: pointer;
+                            }
+                        </style>
+
+                        <form>
+                            <div class="form-group row">
+                                <label class="col-form-label col-md-2">Ảnh đính kèm</label>
+                                <div class="col-md-8">
+
+                                    <input class="form-control" type="file" id="file-input" name="files[]" multiple>
+                                    <br />
+                                    <div class="preview-container" id="img_container"> </div>
+
+                                </div>
+                                <div class="col-md-2">
+                                    <button type="button" id="addImage" class="btn btn-primary">Chọn</button>
+
+                                </div>
+                            </div>
+
+                        </form>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/api/admin/roomType.js"></script>
+
+<script>
+
+    // tagify
+    var input = document.querySelector('#tags-input');
+    var tagify = new Tagify(input);
+    input.classList.remove('form-control');
+
+    // previewThumb
+    document.getElementById('thumb-input').addEventListener('change', function () {
+        const imageContainer = document.getElementById('thumb-container');
+        const files = this.files; // Lấy danh sách các tệp đã chọn
+
+        imageContainer.innerHTML = '';
+        if (files.length > 0) {
+            const file = files[0];
+            if (file.type.startsWith('image/')) {
+                const reader = new FileReader();
+                reader.onload = function (e) {
+                    const imgSrc = e.target.result;
+                    const previewHTML = `
+                                <div class="preview">
+                                    <img src="${imgSrc}" id="thumb" alt="Preview-thumb">
+                                </div>
+                            `;
+                    imageContainer.insertAdjacentHTML('beforeend', previewHTML);
+                };
+                reader.readAsDataURL(file);
+            } else {
+                console.log("File không được hỗ trợ: " + file.name);
+            }
+        } else {
+            console.log("Không có file nào được chọn");
+        }
+    });
+
+    // preview ImageAlt
+    document.getElementById('addImage').addEventListener('click', function () {
+        const imageContainer = document.getElementById('img_container');
+        const img = document.getElementById('file-input');
+        const files = img.files;
+
+        if (files.length > 0) {
+            for (let i = 0; i < files.length; i++) {
+                const file = files[i];
+
+                if (file.type.startsWith('image/')) {
+                    const reader = new FileReader();
+                    reader.onload = function (e) {
+                        const imgSrc = e.target.result;
+                        const previewHTML = `
+                                <div class="preview">
+                                    <img src="${imgSrc}" value ="${imgSrc}" alt="Preview">
+                                    <button class="remove-btn" onclick="this.parentElement.remove()">X</button>
+                                </div>
+                            `;
+                        imageContainer.insertAdjacentHTML('beforeend', previewHTML);
+                    };
+                    reader.readAsDataURL(file);
+                } else {
+                    console.log("File không được hỗ trợ: " + file.name);
+                }
+            }
+        } else {
+            console.log("Không có file nào được chọn");
+        }
+    });
+
+    // loading
+    document.addEventListener('DOMContentLoaded', function () {
+        const roomId = localStorage.getItem('editRoomTypeId');
+        console.log('Room ID:', roomId);
+
+        axios.get(`https://localhost:7197/api/RoomType/GetById/${roomId}`)
+            .then(function (response) {
+                const roomData = response.data;
+
+                console.log(roomData)
+                document.getElementById('name').value = roomData.name;
+                document.getElementById('capacity').value = roomData.capacity;
+                document.getElementById('price').value = roomData.price;
+
+
+                // gán ảnh
+                const listImage = roomData.roomImage.map(img => img.url); 
+                const imgContainer = document.getElementById('img_container');
+                imgContainer.innerHTML = '';
+                // Sử dụng forEach để lặp qua từng ảnh
+                listImage.forEach(image => {
+                    const previewHTML = `
+                     <div class="preview">
+                    <img src="${baseUrl}/${image}" value="${image}" id="imageAlt" alt="Preview">
+                <button class="remove-btn" onclick="this.parentElement.remove()">X</button>
+                 </div>
+                        `;
+                    imgContainer.insertAdjacentHTML('beforeend', previewHTML); // Thêm ảnh vào container
+                });
+
+
+
+                // gán ảnh bìa
+                const imageContainer = document.getElementById('thumb-container');
+                imageContainer.innerHTML = '';
+                    const previewHTML = `
+                            <div class="preview">
+                                   <img src="${baseUrl}/${roomData.thumb}" id="thumb" alt="Preview-thumb">
+                            </div>
+                        `;
+                    imageContainer.insertAdjacentHTML('beforeend', previewHTML);
+                
+
+                // gắn tag
+                const tagData = roomData.tags.map(roomtag => ({ value: roomtag.name }));
+                tagify.addTags(tagData);
+
+
+                // gán selected checkbox
+                const roomServices = roomData.services.map(service => service.serviceId);
+
+                axios.get('https://localhost:7197/api/Service/GetAll')
+                    .then(function (serviceResponse) {
+                        const services = serviceResponse.data;
+                        const checkboxContainer = document.getElementById('checkboxContainer');
+                        checkboxContainer.innerHTML = '';
+                   
+                        services.forEach(service => {
+                            
+                            const isChecked = roomServices.includes(service.id);
+
+                            const checkboxDiv = document.createElement('div');
+                            checkboxDiv.classList.add('checkbox');
+                            checkboxDiv.innerHTML = `
+                                <label>
+                                    <input type="checkbox" name="services" value="${service.id}" ${isChecked ? 'checked' : ''}>
+                                    <span style="margin-left: 5px;">${service.name}</span>
+                                </label>
+                            `;
+                            checkboxContainer.appendChild(checkboxDiv);
+                        });
+                    })
+                    .catch(function (error) {
+                        console.error('Lỗi khi lấy danh sách dịch vụ:', error);
+                    });
+            })
+           
+    });
+
+
+    let editorContent;
+    //ckeditor
+    ClassicEditor
+        .create(document.querySelector('#content'))
+        .then(editor => {
+            editorContent = editor;
+
+            console.log('CKEditor instance created.');
+        })
+        .catch(error => {
+            console.error('Failed to create CKEditor instance:', error);
+        });
+
+</script>
+

@@ -1,0 +1,2249 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Hotel.Client.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Hotel.Client.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\css\\feathericon.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\feathericon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\fonts\\MaterialIcons-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MaterialIcons-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\fonts\\MaterialIcons-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MaterialIcons-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\fonts\\MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\fonts\\MaterialIcons-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MaterialIcons-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\fonts\\feathericon-1.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\feathericon-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\fonts\\feathericon.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\feathericon.eot"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\fonts\\feathericon.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\feathericon.svg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\fonts\\feathericon.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\feathericon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\fonts\\feathericon.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\feathericon.woff"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\hotel_logo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\hotel_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\placeholder.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\placeholder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\product\\product-01.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\product\\product-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\product\\product-02.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\product\\product-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\product\\product-03.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\product\\product-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\product\\product-04.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\product\\product-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\product\\product-05.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\product\\product-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\product\\product-06.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\product\\product-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\product\\product-07.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\product\\product-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\product\\product-08.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\product\\product-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-02.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-03.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-04.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-05.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-06.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-07.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-08.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-09.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-13.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-15.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-16.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\profiles\\avatar-17.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profiles\\avatar-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\sent.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\sent.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\img\\video-call.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\video-call.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\js\\axios.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\axios.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\js\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\js\\chart.morris.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart.morris.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\js\\jquery-3.5.1.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery-3.5.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\datatables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\datatables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\datatables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400-1.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400-1.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900-1.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fullcalendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fullcalendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\fullcalendar\\jquery.fullcalendar.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\fullcalendar\\jquery.fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\morris\\morris.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\morris\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\morris\\morris.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\morris\\morris.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\slimscroll\\jquery.slimscroll.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\slimscroll\\jquery.slimscroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\summernote\\dist\\font\\summernote-1.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\summernote\\dist\\font\\summernote-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\summernote\\dist\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\summernote\\dist\\font\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\summernote\\dist\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\summernote\\dist\\font\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\summernote\\dist\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\summernote\\dist\\font\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\summernote\\dist\\font\\summernote.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\summernote\\dist\\font\\summernote.woff2"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\summernote\\dist\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\summernote\\dist\\summernote-bs4.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\admin\\assets\\plugins\\summernote\\dist\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\summernote\\dist\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\api\\admin\\room.js",
+      "PackagePath": "staticwebassets\\api\\admin\\room.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\api\\admin\\roomType.js",
+      "PackagePath": "staticwebassets\\api\\admin\\roomType.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\api\\admin\\service.js",
+      "PackagePath": "staticwebassets\\api\\admin\\service.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\ckeditor\\ckeditor5.js",
+      "PackagePath": "staticwebassets\\ckeditor\\ckeditor5.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\font-awesome\\css\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\css\\font-awesome.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\gallery.css",
+      "PackagePath": "staticwebassets\\css\\gallery.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\ionicons-2.0.1\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\css\\ionicons-2.0.1\\css\\ionicons.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\ionicons-2.0.1\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons-2.0.1\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\ionicons-2.0.1\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\css\\ionicons-2.0.1\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\ionicons-2.0.1\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\css\\ionicons-2.0.1\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\ionicons-2.0.1\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\css\\ionicons-2.0.1\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\ionicons-2.0.1\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\css\\ionicons-2.0.1\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\css\\vit-gallery.css",
+      "PackagePath": "staticwebassets\\css\\vit-gallery.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\404page\\404page.jpg",
+      "PackagePath": "staticwebassets\\images\\404page\\404page.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\404page\\Comming.jpg",
+      "PackagePath": "staticwebassets\\images\\404page\\Comming.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\About\\about-1.jpg",
+      "PackagePath": "staticwebassets\\images\\About\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\About\\about-2.jpg",
+      "PackagePath": "staticwebassets\\images\\About\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\About\\about-3.png",
+      "PackagePath": "staticwebassets\\images\\About\\about-3.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\About\\about-4.png",
+      "PackagePath": "staticwebassets\\images\\About\\about-4.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\About\\about-5.png",
+      "PackagePath": "staticwebassets\\images\\About\\about-5.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\About\\about-6.png",
+      "PackagePath": "staticwebassets\\images\\About\\about-6.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\About\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\About\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Attractions\\Attractions-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Attractions\\Attractions-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Attractions\\Attractions.jpg",
+      "PackagePath": "staticwebassets\\images\\Attractions\\Attractions.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\Shape-101.png",
+      "PackagePath": "staticwebassets\\images\\Blog\\Shape-101.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\Shape-1101.png",
+      "PackagePath": "staticwebassets\\images\\Blog\\Shape-1101.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\images\\Blog\\blog-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\blog-11.jpg",
+      "PackagePath": "staticwebassets\\images\\Blog\\blog-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\blog-12.jpg",
+      "PackagePath": "staticwebassets\\images\\Blog\\blog-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\blog-13.jpg",
+      "PackagePath": "staticwebassets\\images\\Blog\\blog-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\blog-14.jpg",
+      "PackagePath": "staticwebassets\\images\\Blog\\blog-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\images\\Blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\images\\Blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\images\\Blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\images\\Blog\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\blog.jpg",
+      "PackagePath": "staticwebassets\\images\\Blog\\blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Blog\\icon-check.png",
+      "PackagePath": "staticwebassets\\images\\Blog\\icon-check.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Checkout\\2co.png",
+      "PackagePath": "staticwebassets\\images\\Checkout\\2co.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Checkout\\checkou-1t.jpg",
+      "PackagePath": "staticwebassets\\images\\Checkout\\checkou-1t.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Checkout\\checkou-3t.jpg",
+      "PackagePath": "staticwebassets\\images\\Checkout\\checkou-3t.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Checkout\\checkout.jpg",
+      "PackagePath": "staticwebassets\\images\\Checkout\\checkout.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Checkout\\ex.png",
+      "PackagePath": "staticwebassets\\images\\Checkout\\ex.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Checkout\\mas.png",
+      "PackagePath": "staticwebassets\\images\\Checkout\\mas.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Checkout\\o.png",
+      "PackagePath": "staticwebassets\\images\\Checkout\\o.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Checkout\\pay.png",
+      "PackagePath": "staticwebassets\\images\\Checkout\\pay.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Checkout\\visa.png",
+      "PackagePath": "staticwebassets\\images\\Checkout\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-10.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-11.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-12.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-13.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-14.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-15.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-16-16.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-16-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-16.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-17.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-18.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-19.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-20.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-21.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-22.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-23.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-24.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-26.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-27.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-28.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-29-29.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-29-29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-29.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-3-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-30-30.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-30-30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-30.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-31.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-32.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-33.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-34.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-35.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-36.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-37.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-38.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-39.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-4-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-4-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-40.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-41.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-42.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-43.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-44.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-45.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-46.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-47.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-48.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-49.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-50.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-51.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-6.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-7.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-8.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery-9.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Gallery\\Gallery.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\Gallery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Guestbook\\Guest-Book-1.png",
+      "PackagePath": "staticwebassets\\images\\Guestbook\\Guest-Book-1.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Guestbook\\Guest-Book-2.png",
+      "PackagePath": "staticwebassets\\images\\Guestbook\\Guest-Book-2.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Guestbook\\Guest-Book-3.png",
+      "PackagePath": "staticwebassets\\images\\Guestbook\\Guest-Book-3.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Guestbook\\Guest-Book-4.png",
+      "PackagePath": "staticwebassets\\images\\Guestbook\\Guest-Book-4.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Guestbook\\Guest-Book-5.png",
+      "PackagePath": "staticwebassets\\images\\Guestbook\\Guest-Book-5.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Guestbook\\Guest-Book-6.png",
+      "PackagePath": "staticwebassets\\images\\Guestbook\\Guest-Book-6.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Guestbook\\Guest-Book-7.png",
+      "PackagePath": "staticwebassets\\images\\Guestbook\\Guest-Book-7.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Guestbook\\Guest-Book-8.png",
+      "PackagePath": "staticwebassets\\images\\Guestbook\\Guest-Book-8.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Guestbook\\Guest-Book-9.png",
+      "PackagePath": "staticwebassets\\images\\Guestbook\\Guest-Book-9.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Guestbook\\iconbook.png",
+      "PackagePath": "staticwebassets\\images\\Guestbook\\iconbook.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\Discover.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\Discover.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\Master-card (1).png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\Master-card (1).png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\Master-card.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\Master-card.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\Our-Events-1 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\Our-Events-1 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\Our-Events-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\Our-Events-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\Our-Events-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\Our-Events-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\Our-Events-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\Our-Events-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\Paypal.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\Paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\Slider-v1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\Slider-v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\Testimonials.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\Testimonials.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\Visa.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\Visa.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\about-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\about-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\about-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\about-icon-1.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\about-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\about-icon-2.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\about-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\about-icon-3.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\about-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\about-icon-4.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\about-icon-4.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\about-icon-5.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\about-icon-5.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\about-icon-6.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\about-icon-6.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\about-icon-7.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\about-icon-7.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\about-icon-8.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\about-icon-8.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\about-testimonials-img.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\about-testimonials-img.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\bg-gallery.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\bg-gallery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\date-icon.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\date-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\even-l-icon.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\even-l-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\even-r-icon.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\even-r-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\footer-top-icon-l.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\footer-top-icon-l.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-3-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-4-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-4-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-5-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-5-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-6-6.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-6-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-7-7.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-7-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-8-8.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-8-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\icon-our.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\icon-our.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\icon-slider-l.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\icon-slider-l.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\icon-slider-r.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\icon-slider-r.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\our-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\our-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\our-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\our-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\our-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\our-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\our-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\our-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\our-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\our-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\our-6.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\our-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\sky-logo-footer.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\sky-logo-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\sky-logo-header.png",
+      "PackagePath": "staticwebassets\\images\\Home-1\\sky-logo-header.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-1\\web.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-1\\web.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\Slider-v2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-2\\Slider-v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\Testimonials-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-2\\Testimonials-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\Testimonials.png",
+      "PackagePath": "staticwebassets\\images\\Home-2\\Testimonials.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\about-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-2\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\about-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-2\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\gallery-1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-2\\gallery-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-2\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\gallery-2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-2\\gallery-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-2\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\gallery-3-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-2\\gallery-3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-2\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\gallery-4-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-2\\gallery-4-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-2\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\rooms-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-2\\rooms-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\rooms-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-2\\rooms-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\rooms-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-2\\rooms-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\v2-icon-1.png",
+      "PackagePath": "staticwebassets\\images\\Home-2\\v2-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\v2-icon-2.png",
+      "PackagePath": "staticwebassets\\images\\Home-2\\v2-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\v2-icon-3.png",
+      "PackagePath": "staticwebassets\\images\\Home-2\\v2-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-2\\v2-icon.png",
+      "PackagePath": "staticwebassets\\images\\Home-2\\v2-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\Ellipse-21.png",
+      "PackagePath": "staticwebassets\\images\\Home-3\\Ellipse-21.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\Layer-506.png",
+      "PackagePath": "staticwebassets\\images\\Home-3\\Layer-506.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\Layer-507.png",
+      "PackagePath": "staticwebassets\\images\\Home-3\\Layer-507.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\Layer-508.png",
+      "PackagePath": "staticwebassets\\images\\Home-3\\Layer-508.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\Layer-509.png",
+      "PackagePath": "staticwebassets\\images\\Home-3\\Layer-509.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\Slider-v3.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-3\\Slider-v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-3\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\events-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-3\\events-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\events.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-3\\events.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\footer.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-3\\footer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\icon-color.png",
+      "PackagePath": "staticwebassets\\images\\Home-3\\icon-color.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\icon.png",
+      "PackagePath": "staticwebassets\\images\\Home-3\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\icon1-color.png",
+      "PackagePath": "staticwebassets\\images\\Home-3\\icon1-color.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\icon1.png",
+      "PackagePath": "staticwebassets\\images\\Home-3\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\news.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-3\\news.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\our-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-3\\our-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\our-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-3\\our-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\our-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-3\\our-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\our-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-3\\our-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\our-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-3\\our-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-3\\our-6.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-3\\our-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\Slider-v3 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\Slider-v3 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\about-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\about-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\about-video.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\about-video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\events-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\events-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\events-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\events-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\events.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\events.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\footer.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\footer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\our-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\our-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\our-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\our-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\our-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\our-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\our-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\our-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\our-6.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\our-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\our.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\our.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\room-2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\room-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\room-2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\room-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\room-2-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\room-2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\room-2-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\room-2-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\room-2-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\room-2-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\room-2-6.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\room-2-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\slider.jpg",
+      "PackagePath": "staticwebassets\\images\\Home-4\\slider.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\v2-icon-1.png",
+      "PackagePath": "staticwebassets\\images\\Home-4\\v2-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\v2-icon-2.png",
+      "PackagePath": "staticwebassets\\images\\Home-4\\v2-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\v2-icon-3.png",
+      "PackagePath": "staticwebassets\\images\\Home-4\\v2-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Home-4\\v2-icon.png",
+      "PackagePath": "staticwebassets\\images\\Home-4\\v2-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Login\\login.jpg",
+      "PackagePath": "staticwebassets\\images\\Login\\login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\Another-.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\Another-.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\Another-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\Another-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\Another-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\Another-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\Another-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\Another-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\close_black.png",
+      "PackagePath": "staticwebassets\\images\\Product\\close_black.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\close_black_2x.png",
+      "PackagePath": "staticwebassets\\images\\Product\\close_black_2x.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\close_white.png",
+      "PackagePath": "staticwebassets\\images\\Product\\close_white.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\fullscreen_black.png",
+      "PackagePath": "staticwebassets\\images\\Product\\fullscreen_black.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\fullscreen_exit_black.png",
+      "PackagePath": "staticwebassets\\images\\Product\\fullscreen_exit_black.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\icon.png",
+      "PackagePath": "staticwebassets\\images\\Product\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\img-7.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\left_black-1.png",
+      "PackagePath": "staticwebassets\\images\\Product\\left_black-1.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\left_black.png",
+      "PackagePath": "staticwebassets\\images\\Product\\left_black.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\left_black_2x.png",
+      "PackagePath": "staticwebassets\\images\\Product\\left_black_2x.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\left_white.png",
+      "PackagePath": "staticwebassets\\images\\Product\\left_white.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\right_black-1.png",
+      "PackagePath": "staticwebassets\\images\\Product\\right_black-1.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\right_black.png",
+      "PackagePath": "staticwebassets\\images\\Product\\right_black.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\right_black_2x.png",
+      "PackagePath": "staticwebassets\\images\\Product\\right_black_2x.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\right_white.png",
+      "PackagePath": "staticwebassets\\images\\Product\\right_white.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Product\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\Product\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Reservation\\2co.jpg",
+      "PackagePath": "staticwebassets\\images\\Reservation\\2co.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Reservation\\COUPLE.jpg",
+      "PackagePath": "staticwebassets\\images\\Reservation\\COUPLE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Reservation\\STANDARD.jpg",
+      "PackagePath": "staticwebassets\\images\\Reservation\\STANDARD.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Reservation\\american.jpg",
+      "PackagePath": "staticwebassets\\images\\Reservation\\american.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Reservation\\family.jpg",
+      "PackagePath": "staticwebassets\\images\\Reservation\\family.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Reservation\\header.jpg",
+      "PackagePath": "staticwebassets\\images\\Reservation\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Reservation\\luxury.jpg",
+      "PackagePath": "staticwebassets\\images\\Reservation\\luxury.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Reservation\\mastercard.jpg",
+      "PackagePath": "staticwebassets\\images\\Reservation\\mastercard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Reservation\\o.jpg",
+      "PackagePath": "staticwebassets\\images\\Reservation\\o.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Reservation\\paypal.jpg",
+      "PackagePath": "staticwebassets\\images\\Reservation\\paypal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Reservation\\visa.jpg",
+      "PackagePath": "staticwebassets\\images\\Reservation\\visa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-10.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-11.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-12.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-13.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-14.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-15.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-16.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-17.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-18.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-19.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-20.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-21.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-22.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-23.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-24.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-25.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-26.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-27.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-28.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-29.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-30.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-31.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-32.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-33.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-34.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-35.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-36.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-37.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-38.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-39.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-40.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-41.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-42.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-43.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-44.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-45.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-46.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-47.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-48.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-49.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-50.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-51.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-52.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-52.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-53.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-53.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-54.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-55.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-55.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-56.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-57.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-57.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-58.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-58.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-59.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-59.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-6.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-60.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-7.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-8.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants-9.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Restaurants.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Restaurants.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Shape-11.jpg",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Shape-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\Shape-11.png",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\Shape-11.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Restaurants\\even.png",
+      "PackagePath": "staticwebassets\\images\\Restaurants\\even.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-10.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-11.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-12.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-13.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-14.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-16.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-17.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-18.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-19.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-20.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-21.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-22.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-23.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-24.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-25.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-26.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-27.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-28.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-29.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-30.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-31.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-32.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-33.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-34.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-35.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-36.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-37.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-4 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-4 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-6.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-7.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-8.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room-9.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\Room\\room.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\room.jpg"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\js\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\js\\jquery.appear.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.appear.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\js\\jquery.littlelightbox.js",
+      "PackagePath": "staticwebassets\\js\\jquery.littlelightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\js\\sky.js",
+      "PackagePath": "staticwebassets\\js\\sky.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\js\\vit-gallery.js",
+      "PackagePath": "staticwebassets\\js\\vit-gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\tagify\\tagify.css",
+      "PackagePath": "staticwebassets\\tagify\\tagify.css"
+    },
+    {
+      "Id": "C:\\Users\\phaml\\source\\repos\\HotelBooking\\Hotel\\Hotel.Client\\wwwroot\\tagify\\tagify.js",
+      "PackagePath": "staticwebassets\\tagify\\tagify.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hotel.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Hotel.Client.props",
+      "PackagePath": "build\\Hotel.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Hotel.Client.props",
+      "PackagePath": "buildMultiTargeting\\Hotel.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Hotel.Client.props",
+      "PackagePath": "buildTransitive\\Hotel.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
